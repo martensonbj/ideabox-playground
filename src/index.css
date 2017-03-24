@@ -37,6 +37,10 @@ button:hover {
   cursor: pointer;
 }
 
+.active {
+  background-color: orange;
+}
+
 .Idea {
     width: 200px;
     height: 150px;
